@@ -1,0 +1,6 @@
+{
+  "name": "Nest Courses",
+  "description": "Discover the best AI tools and software for work, study, business, creativity, and everyday tasks. Compare tools, find alternatives, read reviews, and learn practical ways to use them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
